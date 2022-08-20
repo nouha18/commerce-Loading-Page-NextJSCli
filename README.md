@@ -3,10 +3,10 @@
 # Next.js Commerce 
 
 The all-in-one starter kit for high-performance e-commerce sites. With a few clicks, Next.js developers can clone, deploy and fully customize their own store.
-Start right now at [nextjs.org/commerce](commerce-5fs2gdgrx-nouha18.vercel.app)
+Start right now at [nextjs.org/commerce](commerce-5fs2gdgrx-nouha18.vercel.app) :brown_heart: :blue_heart:
 
-## Demo live at: [demo.vercel.store](https://commerce-theta-olive-50.vercel.app/)
-
+## Demo live at: [Ecommerce Loading Page](https://commerce-theta-olive-50.vercel.app/)
+:ghost: 	:green_heart:  :brown_heart: :blue_heart:
 - Shopify Demo: https://shopify.vercel.store/
 - Swell Demo: https://swell.vercel.store/
 - BigCommerce Demo: https://bigcommerce.vercel.store/
